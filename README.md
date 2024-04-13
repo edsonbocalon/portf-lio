@@ -1,2 +1,2 @@
-# portf-lio
-HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+# portfolio
+HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags - Curso Alura;
